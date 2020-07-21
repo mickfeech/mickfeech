@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mickfeech?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/mickfeech)
 
-
+I am an advocate for DevOps practices and technology enthusiast.  I enjoy applying new technology and open source software to learn and solve problems.
 
 ![Mickfeech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickfeech&show_icons=true&hide_border=true)
 <!--
