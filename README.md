@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/mickfeech?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/mickfeech)
+
+
+
+![Mickfeech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickfeech&show_icons=true&hide_border=true)
 <!--
 **mickfeech/mickfeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
